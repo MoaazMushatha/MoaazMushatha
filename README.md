@@ -63,7 +63,7 @@ Whether you're looking for a clean Laravel backend, a stunning Android UI, or AP
 ### 📬 Let's Get in Touch
 
 - 📱 **WhatsApp**: [+972 56 766 4936](https://wa.me/972567664936)
-- 📧 **Email**: moaaz.freelance@gmail.com
+- 📧 Email: moazz.m.2021@gmail.com
 - 🌍 **Facebook**: [moaaz.mushatha](https://www.facebook.com/moaaz.mushatha)
 - 📸 **Instagram**: [@dev.moaaz_mushatha](https://www.instagram.com/dev.moaaz_mushatha/)
 
